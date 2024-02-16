@@ -1,2 +1,4 @@
-# php-routuer
-php router supported all kind of http requests  , included middleware
+# php-blog-mvc
+this is a sample blog with pure php.
+this app has built in router and also middleware.
+
